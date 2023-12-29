@@ -39,8 +39,7 @@ li a:hover {
     background-color: white;
    
 }
-.dropdown .dropdown-content:hover {
-    background-color: rgb(6, 13, 231);
-    color: white;
+
+.dropdown-content a:hover{
     
 }

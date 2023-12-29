@@ -13,8 +13,9 @@ export function MenuBar()
             <li><a href="#bill">Bill</a></li>
         </ul>
         <div class="dropdown-content">
-       <h5>Make Sale</h5>
-       <h5>Reports</h5>    
+            <ul><li>
+       <a>Make Sale</a></li>
+    <li>  <a>Reports</a>    </li></ul>
         </div>
     </div>  
     )
