@@ -1,0 +1,28 @@
+.box{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    border: 5px solid gray;
+    
+}
+.box1{
+    border: 2px solid black;
+    position: static;
+}
+
+.box2{
+    border: 2px solid red;
+    position: absolute;
+}
+.box3{
+    border: 2px solid green;
+    position: relative;
+}
+.box4{
+    border: 2px solid brown;
+    position: sticky;
+}
+.box5{
+    border: 2px solid goldenrod;
+    position: fixed;
+}
